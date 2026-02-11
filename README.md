@@ -11,10 +11,10 @@ An innovative iOS music player application that uses CoreML and Vision framework
 - **Lock Screen Live Activity:** Control playback and view song information even when the device is locked.
 
 ## 🛠️ Tech Stack
-- **Swift 6 & SwiftUI**
-- **CoreML & Vision Framework**
-- **Custom CNN Model trained with a self-created hand gesture dataset**
-- **iOS 18.2 | Xcode 16.2**
+- Swift 6 & SwiftUI
+- CoreML & Vision Framework
+- Custom CNN Model trained with a self-created hand gesture dataset
+- iOS 18.2 | Xcode 16.2
 
 <img width="1494" alt="Hand Pose Classifier" src="https://github.com/user-attachments/assets/1dfedf7e-a5af-4842-b18b-b9b28a684b53" />
 
