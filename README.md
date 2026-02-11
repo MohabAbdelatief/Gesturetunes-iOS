@@ -5,11 +5,11 @@ Here’s a concise and professional description tailored for your GitHub reposit
 An innovative iOS music player application that uses CoreML and Vision frameworks to enable real-time hand gesture recognition for controlling playback. This app allows users to play, pause, skip, and rewind songs using predefined gestures detected through the iPhone’s front camera, offering a touch-free and intuitive user experience.
 
 🚀 Features
-	•	Real-Time Gesture Detection: Seamless, low-latency recognition of hand gestures using a custom-trained CNN model.
-	•	Touch-Free Music Control: Perform essential playback actions without touching your device.
-	•	CoreML Integration: On-device machine learning for fast, secure processing without needing an internet connection.
-	•	SwiftUI Interface: Modern, minimalistic UI inspired by Apple Music for a familiar and smooth experience.
-	•	Lock Screen Live Activity: Control playback and view song information even when the device is locked.
+• Real-Time Gesture Detection: Seamless, low-latency recognition of hand gestures using a custom-trained CNN model.
+• Touch-Free Music Control: Perform essential playback actions without touching your device.
+• CoreML Integration: On-device machine learning for fast, secure processing without needing an internet connection.
+• SwiftUI Interface: Modern, minimalistic UI inspired by Apple Music for a familiar and smooth experience.
+• Lock Screen Live Activity: Control playback and view song information even when the device is locked.
 
 🛠️ Tech Stack
 	•	Swift 6 & SwiftUI
