@@ -32,25 +32,43 @@ Contact: mohababdelatief@icloud.com
 
 
 ## 1️⃣ Launch Screen
+<p align="center">
 <img width="277" alt="Launch Screen" src="https://github.com/user-attachments/assets/31ae06de-4f85-4cee-9739-eb2b95eac626" />  
+  </p>
+<br>
 - A sleek and minimalistic launch screen, inspired by Apple Music, that sets the tone for the touch-free music experience.
 
 ## 2️⃣ Library View
+<p align="center">
 <img width="273" alt="Library View" src="https://github.com/user-attachments/assets/8268fb75-8b11-4ebb-9dee-4eb6859768a2" />  
+</p>
+<br>
 - Displays the user’s music library with a clean, SwiftUI-based layout, making it easy to browse and select songs.
 
 ## 3️⃣ Song Detailed View
+<p align="center">
 <img width="268" alt="Song Detailed View" src="https://github.com/user-attachments/assets/dd236c2e-72a3-4c17-af90-90c482f0e94d" />  
+  </p>
+<br>
 - Provides detailed song information with album artwork, artist details, and intuitive playback controls.
 
 ## 4️⃣ Now Playing View
+<p align="center">
 <img width="276" alt="Now Playing View" src="https://github.com/user-attachments/assets/4548a721-873e-4879-b1ba-403244e87739" />  
+  </p>
+<br>
 - The primary playback screen where users can control their music using hand gestures, featuring a modern and responsive UI.
 
 ## 5️⃣ Transition to Car Mode
+<p align="center">
 <img width="270" alt="Transition To Car Mode View" src="https://github.com/user-attachments/assets/12e58ffe-45c1-430e-9499-222421cf6a29" />  
+  </p>
+<br>
 - A smooth transition screen indicating the switch to Car Mode for a more accessible and distraction-free driving experience.
 
 ## 6️⃣ Car Mode View
-<img width="275" alt="Car Mode View" src="https://github.com/user-attachments/assets/64f9f955-9beb-4eab-b655-c586f73edc6c" />  
+<p align="center">
+<img width="275" alt="Car Mode View" src="https://github.com/user-attachments/assets/64f9f955-9beb-4eab-b655-c586f73edc6c" /> 
+  </p>
+<br>
 - A simplified, driver-friendly interface optimized for hand gesture control while driving, ensuring safety and ease of use.
